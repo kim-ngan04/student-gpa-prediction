@@ -49,8 +49,8 @@ Student-GPA-Prediction/
 
 ## Result
 
-- Mean Squared Error: _(based on your training)_
-- R² Score: _(based on your training)_
+- Mean Squared Error: 7.000709125528937e-30
+- R² Score: 1.0
 
 ## Future Improvements
 
